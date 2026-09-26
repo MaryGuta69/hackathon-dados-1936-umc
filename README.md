@@ -20,4 +20,10 @@ Através do uso de **Python**, **Pandas** e **Scikit-Learn**, reponderamos a amo
 - **Visualização:** `matplotlib`, `seaborn`
 - **Machine Learning:** `scikit-learn` (`LinearRegression`, `SVC`, `StandardScaler`, `train_test_split`)
 
+- ## 🚀 Como Executar o Código
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/MaryGuta69/hackathon-dados-1936-umc.git
+Abra o arquivo Hackathon_de_Ciência_de_Dados.ipynb no 
+
 
